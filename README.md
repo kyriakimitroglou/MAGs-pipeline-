@@ -103,8 +103,5 @@ prokka --outdir annotation_output \
 ```
 
 
-## Useful Resources
-- [EMBL Metagenomics Course](https://www.ebi.ac.uk/training/online/courses/metagenomics-bioinformatics/)
-- [MGnify Assembly Tutorial](https://mgnify-ebi-2020.readthedocs.io/en/latest/assembly.html)
-- [MicrobiomeHD Database](https://github.com/cduvallet/microbiomeHD)
+
 
